@@ -114,8 +114,8 @@ function createGoldenSpiral(initialRadius, numberOfStars) {
 }
 
 //calling the function
-var initialRadius = 0.6;
-var amountOfDegrees = 1020;
+var initialRadius = 6;
+var amountOfDegrees = 480;
 createGoldenSpiral(initialRadius, amountOfDegrees);
 
 
