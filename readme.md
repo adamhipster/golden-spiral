@@ -1,3 +1,5 @@
 Put your terminal on full-screen
-node golden_spiral.js
+
+`node golden_spiral.js`
+
 
